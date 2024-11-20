@@ -1,4 +1,5 @@
 
+
 **Problem Statement**
 
 You are a data analyst for the Austin Police Department (APD), responsible for examining over 1.76 million 911 calls to improve response times, identify critical incidents, assess mental health impacts, and report on the effectiveness of resource allocation. Your task is to use SQL queries to analyze trends, performance metrics, and safety issues, helping to enhance both officer and community safety.
@@ -291,6 +292,8 @@ Use a table with Both incident and sector column
 
        ANSWER:
     There was no difference Found
+  **Response Time Difference by Response Day Of The Week**
+![Screenshot (326)](https://github.com/user-attachments/assets/7c28d4e2-7d9a-4e14-9d26-c8523bdb2075)
 
 •**WHAT ARE THE TOP 3 MOST FREQUENT FINAL PROBLEM DESCRIPTIONS?**
 
