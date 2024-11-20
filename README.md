@@ -45,7 +45,7 @@ Underwent cleaning and preprocessing of data with PYTHON  using the Pandas libra
 3.	Data-Driven Decision Making : DONE
 4.	Comprehensive and Actionable Presentation :DONE
 5.	User-Friendly and Scalable Dashboard : DONE
-6.	Stakeholder Satisfaction : DONE
+6.	Stakeholder Satisfaction :
 
 
 **Key Questions**
@@ -87,7 +87,8 @@ Use a table with Both incident and sector column
       ANSWER: The average was calculated to be 44.29secs which was calculated with the following 
        Dax: AverageResponseTimeMH = CALCULATE(AVERAGE(df[Response Datetime]),df[Mental Health Flag] = "Mental Health Incident")
 
-    
+**Average Response Time For All Incidents involving Mental Health Issues**
+![Screenshot (325)](https://github.com/user-attachments/assets/c8cd7e4c-91ff-4e0f-9b6b-a2cb8f2ba6f8)
 
 
 •**WHICH TYPES OF INCIDENTS HAVE RESPONSE TIMES THAT ARE ABOVE THE OVERALL AVERAGE RESPONSE TIME?**
