@@ -281,7 +281,10 @@ Use a table with Both incident and sector column
         df[Incident Type] = "Dispatched Incident"
     )
 
-    On the matter of their correlation I found out that the correlation between the two are by and large the same with the average response time being (44,962.83) and the average response time in respect to the incident type being (44,962.83)as well.
+    On the matter of their correlation I found out that the Comparison between the two are by and large the same with the average response time being (44,962.83) and the average response time in respect to the incident type being (44,962.83)as well.
+
+**Comparison between Average Response Time in Total and Average Respose Time By Incident Type**
+![Screenshot (324)](https://github.com/user-attachments/assets/1bc63422-5823-42f8-b802-0c441dfdaeba)
 
 •**FOR EACH DAY OF THE WEEK, CALCULATE THE DIFFERENCE BETWEEN THE AVERAGE RESPONSE TIME FOR THAT DAY AND THE AVERAGE RESPONSE TIME FOR ALL DAYS COMBINED.**
 
