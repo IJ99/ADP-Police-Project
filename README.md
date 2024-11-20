@@ -46,7 +46,7 @@ Underwent cleaning and preprocessing of data with PYTHON  using the Pandas libra
 3.	Data-Driven Decision Making : DONE
 4.	Comprehensive and Actionable Presentation :DONE
 5.	User-Friendly and Scalable Dashboard : DONE
-6.	Stakeholder Satisfaction :
+6.	Stakeholder Satisfaction : DONE
 
 
 **Key Questions**
